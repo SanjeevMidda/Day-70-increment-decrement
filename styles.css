@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    font-family: Helvetica, sans-serif;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    margin: 40px;
+}
+
+.plus, .number, .minus{
+    font-size: 100px;
+}
+
+.number{
+    background-color: blue;
+    padding:90px;
+    color: white;
+}
